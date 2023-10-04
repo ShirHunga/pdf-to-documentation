@@ -9,11 +9,11 @@ Powered by [docusaurus](https://docusaurus.io/docs)
 - Node.js version 16.14 or above (according to https://docusaurus.io/docs/installation)
 ## Set up dev server
 Download the latest version of docusaurus:
-```
+```sh
 npx create-docusaurus@latest my-website classic
 ```
 Run your website
-```
+```sh
 cd my-website
 npm run start
 ```
