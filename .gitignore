@@ -1,0 +1,11 @@
+# Auto generated docunusaurus files
+/my-website
+/package-lock.json
+
+# Pycharm folder
+/.idea
+
+# Tests
+/*.png
+/*.pdf
+/*.txt
