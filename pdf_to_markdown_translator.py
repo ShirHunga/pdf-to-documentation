@@ -48,7 +48,7 @@ def write_to_markdown(lines_list):
         previous_pos = 0
         for line in lines_list:
             # Checks if string is not empty
-            if line['position'] - previous_pos > 25:
+            if line['position'] - previous_pos > 26:
                 f.write('\n')
             if line['string']:
                 f.write(line['string'])

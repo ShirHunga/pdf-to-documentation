@@ -15,6 +15,6 @@ npx create-docusaurus@latest my-website classic
 Run your website
 ```sh
 cd my-website
-npm run start
+npm run start 
 ```
 By default, a browser window will open at http://localhost:3000.
